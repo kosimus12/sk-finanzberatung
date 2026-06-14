@@ -1,0 +1,41 @@
+{
+  "_comment": "Higgsfield-generierte Assets. waschbaer = freigestellt (transparenter Hintergrund, PNG). simon = Fotos. Mit scripts/download-images.mjs lokal spiegelbar.",
+  "_base": "https://d8j0ntlcm91z4.cloudfront.net/user_3Eu2aQBb1xFlQ6ugyYMk0R3u0gd/",
+  "logo": {
+    "white_transparent": "https://d8j0ntlcm91z4.cloudfront.net/user_3Eu2aQBb1xFlQ6ugyYMk0R3u0gd/hf_20260613_214154_a51687cd-b2c1-4229-85ea-ffd3735f0496.png"
+  },
+  "simon": {
+    "hero": "https://d8j0ntlcm91z4.cloudfront.net/user_3Eu2aQBb1xFlQ6ugyYMk0R3u0gd/hf_20260613_134231_31bdb610-bfb1-4604-8ddf-4836e5d2441d.png",
+    "hero_b": "https://d8j0ntlcm91z4.cloudfront.net/user_3Eu2aQBb1xFlQ6ugyYMk0R3u0gd/hf_20260613_134231_eb11d7ab-e3aa-4ba3-901b-9d835a5f91cc.png",
+    "macbook": "https://d8j0ntlcm91z4.cloudfront.net/user_3Eu2aQBb1xFlQ6ugyYMk0R3u0gd/hf_20260613_172538_50c508d7-d805-4903-95ae-53a87a710043.png",
+    "flipchart": "https://d8j0ntlcm91z4.cloudfront.net/user_3Eu2aQBb1xFlQ6ugyYMk0R3u0gd/hf_20260613_172541_6be29a51-019f-442c-8fc7-6ef2879f2cae.png"
+  },
+  "video": {
+    "waschbaer_winkt": "https://d8j0ntlcm91z4.cloudfront.net/user_3Eu2aQBb1xFlQ6ugyYMk0R3u0gd/hf_20260613_171431_d4332b2c-3cff-41a3-a310-dcd0af81a782.mp4"
+  },
+  "waschbaer": {
+    "greeting": "https://d8j0ntlcm91z4.cloudfront.net/user_3Eu2aQBb1xFlQ6ugyYMk0R3u0gd/hf_20260613_173244_40d141e8-fe5b-41ef-8b32-1c290c013a3b.png",
+    "tablet": "https://d8j0ntlcm91z4.cloudfront.net/user_3Eu2aQBb1xFlQ6ugyYMk0R3u0gd/hf_20260613_173246_1c28e455-ec21-40a9-ab9f-485797639f0d.png",
+    "handshake": "https://d8j0ntlcm91z4.cloudfront.net/user_3Eu2aQBb1xFlQ6ugyYMk0R3u0gd/hf_20260613_173248_5fc7cb43-693a-42b4-a00e-2b328cd1e7d3.png",
+    "du": "https://d8j0ntlcm91z4.cloudfront.net/user_3Eu2aQBb1xFlQ6ugyYMk0R3u0gd/hf_20260613_173249_39924d51-6033-4cd1-95fe-985d516b7b0f.png",
+    "pkv": "https://d8j0ntlcm91z4.cloudfront.net/user_3Eu2aQBb1xFlQ6ugyYMk0R3u0gd/hf_20260613_173251_dd14c589-bba8-4e0b-ac4c-7523aca2069e.png",
+    "referendar": "https://d8j0ntlcm91z4.cloudfront.net/user_3Eu2aQBb1xFlQ6ugyYMk0R3u0gd/hf_20260613_173253_9e068e62-9d91-4685-acb3-a47353b07ec9.png",
+    "pension": "https://d8j0ntlcm91z4.cloudfront.net/user_3Eu2aQBb1xFlQ6ugyYMk0R3u0gd/hf_20260613_173326_9dfd37d3-fce6-4c9b-981b-fdfa6738fbe0.png",
+    "newsletter": "https://d8j0ntlcm91z4.cloudfront.net/user_3Eu2aQBb1xFlQ6ugyYMk0R3u0gd/hf_20260613_173327_8ef17875-70e7-4b09-af4c-a89b77e02a7e.png",
+    "rechner": "https://d8j0ntlcm91z4.cloudfront.net/user_3Eu2aQBb1xFlQ6ugyYMk0R3u0gd/hf_20260613_173329_626dc224-0a33-417a-9407-13e66c9f3b3f.png",
+    "check": "https://d8j0ntlcm91z4.cloudfront.net/user_3Eu2aQBb1xFlQ6ugyYMk0R3u0gd/hf_20260613_173330_e2fd545e-6382-4ded-a8fe-0100cfcf27dd.png",
+    "schutz": "https://d8j0ntlcm91z4.cloudfront.net/user_3Eu2aQBb1xFlQ6ugyYMk0R3u0gd/hf_20260613_173331_f631c5f3-ea51-4d74-af8a-ef34d2d6789b.png",
+    "sach": "https://d8j0ntlcm91z4.cloudfront.net/user_3Eu2aQBb1xFlQ6ugyYMk0R3u0gd/hf_20260613_173333_7ce7950b-cb3b-4cdc-b208-0237cccda73e.png",
+    "cta": "https://d8j0ntlcm91z4.cloudfront.net/user_3Eu2aQBb1xFlQ6ugyYMk0R3u0gd/hf_20260614_074347_c64db1ba-6e8b-4427-a6c3-24df94060aed.png",
+    "cta_alt": "https://d8j0ntlcm91z4.cloudfront.net/user_3Eu2aQBb1xFlQ6ugyYMk0R3u0gd/hf_20260614_073521_9840b3e5-1384-40a1-a822-18a1fa73d50a.png"
+  },
+  "testimonials": {
+    "person1": "https://d8j0ntlcm91z4.cloudfront.net/user_3Eu2aQBb1xFlQ6ugyYMk0R3u0gd/hf_20260613_162816_6ec40031-95f9-460e-826a-8f5a8eb87e25.png",
+    "person2": "https://d8j0ntlcm91z4.cloudfront.net/user_3Eu2aQBb1xFlQ6ugyYMk0R3u0gd/hf_20260613_162818_2feb8c7d-b65d-4380-93bf-d396462559f1.png",
+    "person3": "https://d8j0ntlcm91z4.cloudfront.net/user_3Eu2aQBb1xFlQ6ugyYMk0R3u0gd/hf_20260613_162820_2560594d-63fc-4484-82c9-fd26b9917209.png",
+    "person4": "https://d8j0ntlcm91z4.cloudfront.net/user_3Eu2aQBb1xFlQ6ugyYMk0R3u0gd/hf_20260613_162821_2cbc4ed7-4277-4fd2-933c-6ebe2350317a.png",
+    "person5": "https://d8j0ntlcm91z4.cloudfront.net/user_3Eu2aQBb1xFlQ6ugyYMk0R3u0gd/hf_20260613_214737_25080e99-0ea1-47f8-bf47-c922839f663a.png",
+    "person6": "https://d8j0ntlcm91z4.cloudfront.net/user_3Eu2aQBb1xFlQ6ugyYMk0R3u0gd/hf_20260613_214858_c2b25fe3-a4a4-4c0e-8f10-4ef896ab3f92.png",
+    "person7": "https://d8j0ntlcm91z4.cloudfront.net/user_3Eu2aQBb1xFlQ6ugyYMk0R3u0gd/hf_20260613_214741_9b519ccb-a64c-42e6-a297-2d2e35530eef.png"
+  }
+}
