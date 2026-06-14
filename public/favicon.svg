@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="SK-Finanzberatung">
+  <rect width="64" height="64" rx="14" fill="#0A1A5C"/>
+  <!-- stilisierte Springer-Silhouette (angelehnt ans Logo) -->
+  <path fill="#ffffff" d="M37 13c-6.5 0-12 4.4-13.6 10.6l-4.2 1.9c-1 .5-1.2 1.8-.3 2.5l3 2.3-2.6 6.1c-.5 1.2.4 2.5 1.7 2.5H23v3.5c0 1 .8 1.8 1.8 1.8h14.4c1 0 1.8-.8 1.8-1.8V31.5c0-10.2-1.7-18.5-4-18.5zm-9.5 12.8a1.6 1.6 0 1 1 0-3.2 1.6 1.6 0 0 1 0 3.2z"/>
+  <rect x="22" y="46" width="20" height="4.5" rx="1.2" fill="#ffffff"/>
+</svg>
